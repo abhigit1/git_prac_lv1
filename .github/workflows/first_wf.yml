@@ -5,7 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: greetings
-        run: echo "good mornong"
-      - name: goodbye
-        run: echo "byebye"
-  
+        run: echo "Hello"
